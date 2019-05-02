@@ -7,6 +7,9 @@
 .margensuperior{
     margin-top: 20px;
 }
+.margeninferior{
+    margin-bottom: 20px;
+}
 p{
     text-align: justify;
 }
